@@ -16,5 +16,5 @@ This is the 2nd line of chapter 3
 
 ### This chapter is after adding another file : index.html
 1. index.html
-2.
+2. update line 2 in this chapter
 3.
